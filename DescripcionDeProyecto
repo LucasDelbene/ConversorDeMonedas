@@ -1,0 +1,10 @@
+# ConversorDeMonedas
+
+Bienvenidos a mi Proyecto Conversor de Monedas!
+
+Dentro del mismo se encontraran justamente con un convertidor de monedas, en donde podran seleccionar DOLAR o EURO y luego ingresar el monto que desean convertir. 
+Cabe aclarar que la conversion de monedas es exclusivamente y solamente para PESOS ARGENTINOS (DOLAR $280 y EURO $260).
+
+En este proyecto inclui un poco de HTML, CSS y JS.
+
+Espero que lo disfruten, muchas gracias!
